@@ -1,5 +1,5 @@
-### नमस्ते ![](https://pngtree.com/freepng/namaste_3496903.html) 
-![](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/)
+### नमस्ते 🙏
+![](https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif)
 
 
 
