@@ -3,7 +3,7 @@
   <samp>
     नमस्ते 🙏  I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/yuvistwt">Yuvraj</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from India.<br>
-    <p>React⚛️ Junkie <p>
+    <br>React⚛️ Junkie <br>
 
 </samp>
 
