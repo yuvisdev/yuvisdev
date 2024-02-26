@@ -2,7 +2,7 @@
   <br>
   <samp>
     नमस्ते 🙏  I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/yuvistwt">Yuvraj</a></b>.
-    <br>React and Rust🦀 Junkie!! <br>
+    <br>I'm a Computer Engineering Undergraduate Student from India.<br>
 
 </samp>
 
@@ -24,11 +24,9 @@ Current Project: <a href="#">NULL</a>
 
 
 
+⭐️ From [yuvisdev](https://github.com/yuvisdev)
 </samp>
 </details>
-
-⭐️ From [yuvisdev](https://github.com/yuvisdev)
-
 
 
 
