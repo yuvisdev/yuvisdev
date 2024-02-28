@@ -4,10 +4,11 @@
     नमस्ते 🙏  I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/yuvistwt">Yuvraj</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from India.<br>
     <br>A React⚛️ Junkie <br>
+     <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180"/>
 
 </samp>
 
- <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180"/>
+
 
 </p>
 
